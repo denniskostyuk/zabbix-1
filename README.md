@@ -11,7 +11,9 @@
 2. Приложите в файл README.md текст использованных команд в GitHub
 
 sudo su
+
 apt install postgresql
+
 apt update
 apt upgrade
 wget https://repo.zabbix.com/zabbix/6.0/debian/pool/main/z/zabbix-release/zabbix-release_6.0-4+debian11_all.deb
