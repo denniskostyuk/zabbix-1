@@ -11,7 +11,6 @@
 2. Приложите в файл README.md текст использованных команд в GitHub
 
 sudo su
-
 apt install postgresql
 
 apt update
